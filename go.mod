@@ -1,4 +1,4 @@
-module github.com/guitcastro/jx
+module github.com/guitcastro/jx/v2
 
 require (
 	code.gitea.io/sdk v0.0.0-20180702024448-79a281c4e34a
